@@ -1,5 +1,6 @@
+# About me
 - 👋 Hi, I’m @khoocheeshin!
-- 👀 I’m studying MHIA at IMU University.
+- 👀 I’m studying **MHIA** at *IMU University*.
 - 🌱 I’m currently learning to use Python for my study projects.
 - 💞️ I’m looking to collaborate on healthcare related projects.
 
